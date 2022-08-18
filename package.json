@@ -1,7 +1,8 @@
 {
-  "name": "vuepress-theme-reco-demo",
+  "name": "Blogs",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "pioneer",
+  "license": "MIT",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\" --temp .temp",
     "build": "vuepress build ."
