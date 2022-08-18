@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
-    "dev": "vuepress dev . --open --host \"localhost\"",
+    "dev": "vuepress dev . --open --host \"localhost\" --temp .temp",
     "build": "vuepress build ."
   },
   "devDependencies": {
     "vuepress": "1.8.2",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
+    "vuepress-plugin-flowchart": "^1.5.0",
+    "vuepress-plugin-meting": "^0.3.2",
     "vuepress-theme-reco": "1.6.14"
   }
 }
