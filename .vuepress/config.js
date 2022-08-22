@@ -53,7 +53,8 @@ module.exports = {
         'Promise'
       ],
       '/front/css/': [
-        ''
+        '',
+        'sass'
       ],
       '/front/js/': [
         '',
@@ -103,7 +104,7 @@ module.exports = {
     // 作者头像
     authorAvatar: '/images/app/logo.jpg',
     // 备案号
-    record: 'xxxx',
+    record: '',
     // 项目开始时间
     startYear: '2022',
     // 代码主题

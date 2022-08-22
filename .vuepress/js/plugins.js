@@ -14,6 +14,7 @@ module.exports = [
       {
         //metingApi: "https://meting.sigure.xyz/api/music",
         meting: {
+          auto: 'https://music.163.com/#/my/m/music/playlist?id=2201957752',
           server: "netease", // 网易
           type: "playlist", // 读取歌单
           mid: "2201957752",
