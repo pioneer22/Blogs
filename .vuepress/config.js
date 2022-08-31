@@ -59,7 +59,8 @@ module.exports = {
       '/front/js/': [
         '',
         'mst',
-        'ES6'
+        'ES6',
+        'js'
       ],
       '/front/node/': [
         '',
